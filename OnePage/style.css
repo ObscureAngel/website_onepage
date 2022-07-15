@@ -1,0 +1,29 @@
+/* Import des polices */
+@import url('https://fonts.googleapis.com/css2?family=Asap&display=swap');
+
+body {
+	margin: 0px;
+	font-family: 'Asap', sans-serif;
+}
+
+header {
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	height: 250px;
+	width: 100%;
+	background-color: #33cccc;
+	padding-top: 25px;
+}
+
+header > h1 {
+	text-align: center;
+	margin: 0px;
+	font-size: 42px;
+}
+
+header > nav > ul > li {
+	display: inline-block;
+	width: 20%;
+	text-align: center;
+}
